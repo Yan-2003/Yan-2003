@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Programmer, Developer and an IT
 ---------------------------------
 
-I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a Full Stack Developer and Software Engineer in the future.
+I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a future Software Engineer in the future.
 
 * 🌍  I'm based in Butuan City
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
+
+<a href="https://www.github.com/Yan-2003" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 ### Skills
 
