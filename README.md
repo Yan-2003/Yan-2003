@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Programmer, Developer and an IT
 ---------------------------------
 
-I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a future Software Engineer in the future.
+I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a Full Stack Developer and Software Engineer in the future.
 
 * 🌍  I'm based in Butuan City
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
