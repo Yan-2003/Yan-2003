@@ -6,7 +6,7 @@ A Programmer, Developer and an IT
 
 I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a future Software Engineer in the future.
 
-* 🌍  I'm based in Butuan City
+* 🌍  I Live in Butuan City from the Philippines
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 
