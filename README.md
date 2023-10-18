@@ -16,6 +16,11 @@ A Programmer, Developer, and IT I currently study at Caraga State University tak
 </div>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-2003&show_icons=true&locale=en&layout=compact" alt="yan-2003" /></p>
+
+
+
+
 ### Skills
 
 
