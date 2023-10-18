@@ -1,6 +1,9 @@
 # 👨‍💻 Julliane J. Tampus
 
-A Programmer, Developer, and IT I currently study at Caraga State University taking the Bachelor in Science Information Technology course hoping to become a future Software Engineer.
+**` c:/Julliane> : (Programmer/Developer/IT)`**
+
+
+Hi, my name is Julliane I currently study at Caraga State University taking the Bachelor in Science Information Technology course hoping to become a future Software Engineer.
 
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
 <p align="left">
