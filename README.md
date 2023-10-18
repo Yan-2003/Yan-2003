@@ -3,7 +3,12 @@
 A Programmer, Developer, and IT I currently study at Caraga State University taking the Bachelor in Science Information Technology course hoping to become a future Software Engineer.
 
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
-
+<p align="left">
+  <a href="https://www.github.com/Yan-2003" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
+</p>
+### My Language
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="100" height="100" alt="JavaScript" /></a>
 ------------------------------------------------------------------------------------
 
 <div align="center" >
@@ -11,10 +16,7 @@ A Programmer, Developer, and IT I currently study at Caraga State University tak
 <a href="https://github.com/Yan-2003" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-2003&langs_count=3&title_color=ffffff&text_color=6366f1&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages"/></a>
 </div>
 
-<p align="center">
-  <a href="https://www.github.com/Yan-2003" target="_blank" rel="noreferrer"><img
-  src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
-</p>
+
 
 
 ### Skills
