@@ -7,8 +7,11 @@ A Programmer, Developer, and IT I currently study at Caraga State University tak
   <a href="https://www.github.com/Yan-2003" target="_blank" rel="noreferrer"><img
   src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 </p>
-### My Language
+# My Language
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="100" height="100" alt="JavaScript" /></a>
+
+
+
 ------------------------------------------------------------------------------------
 
 <div align="center" >
