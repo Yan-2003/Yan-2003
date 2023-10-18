@@ -9,6 +9,7 @@ A Programmer, Developer, and IT I currently study at Caraga State University tak
 </p>
 <p align="center">
 <b>My Language</b>
+<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="100" height="100" alt="JavaScript" /></a>
 </p>
 
