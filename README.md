@@ -1,9 +1,6 @@
 # 👨‍💻Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Julliane J. Tampus
 
-A Programmer, Developer and an IT
----------------------------------
-
-I currently study at Caraga State University taking the course Bachelor in Science Information Technology hoping to become a future Software Engineer in the future.
+A Programmer, Developer, and IT I currently study at Caraga State University taking the Bachelor in Science Information Technology course hoping to become a future Software Engineer.
 
 * 🌍  I'm based in Butuan City
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
@@ -13,9 +10,7 @@ I currently study at Caraga State University taking the course Bachelor in Scien
 src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
 
 ### Skills
-
-
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
