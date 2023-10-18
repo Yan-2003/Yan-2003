@@ -11,8 +11,9 @@ A Programmer, Developer, and IT I currently study at Caraga State University tak
 ------------------------------------------------------------------------------------
 
 <div align="center" >
-  <a href="http://www.github.com/Yan-2003"><img src="https://github-readme-stats.vercel.app/api?username=Yan-2003&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=6366f1&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="Yan-2003's GitHub stats" /></a>
-<a href="http://www.github.com/Yan-2003"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-2003&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&bg_color=9e0000&locale=en&layout=compact" alt="yan-2003" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-2003&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&bg_color=4d0000&hide_border=true&locale=en&layout=compact" alt="yan-2003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-2003&show_icons=true&theme=synthwave&locale=en" alt="yan-2003" /></p>
 </div>
 
 
