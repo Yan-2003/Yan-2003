@@ -21,7 +21,7 @@ Hi, my name is Julliane I currently study at Caraga State University taking the 
 
 
 
-### Skills
+### My Stacks
 
 
 <p align="center">
