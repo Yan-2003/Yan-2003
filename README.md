@@ -6,10 +6,6 @@
 Hi, my name is Julliane I currently study at Caraga State University taking the Bachelor in Science Information Technology course hoping to become a future Software Engineer.
 
 * ✉️  You can contact me at [julliane.tampus123@gmail.com](mailto:julliane.tampus123@gmail.com)
-<p align="left">
-  <a href="https://www.github.com/Yan-2003" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Yan-2003?logo=github&style=for-the-badge&color=ef4444&labelColor=0f172a" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yan-2003&label=Profile%20views&color=0e75b6&style=plastic" alt="yan-2003" />
-</p>
 
 ------------------------------------------------------------------------------------
 
