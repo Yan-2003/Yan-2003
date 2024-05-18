@@ -1,6 +1,7 @@
 # 👨‍💻 Julliane J. Tampus
 
 **` c:/Julliane> : (Programmer/Developer/IT)`**
+**` c:/Julliane> : FullStack`**
 
 ------------------------------------------------------------------------------------
 
