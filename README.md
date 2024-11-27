@@ -10,7 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yan-2003&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="yan-2003" /></p>
 </div>
 </br>
-
+------------------------------------------------------------------------------------
 ### Socials
 
 
